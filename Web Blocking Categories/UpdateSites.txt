@@ -1,0 +1,12 @@
+0.0.0.0 download.microsoft.com
+0.0.0.0 office.microsoft.com
+0.0.0.0 update.microsoft.com
+0.0.0.0 security.debian.org
+0.0.0.0 update.mozilla.org
+0.0.0.0 windowsupdate.com
+0.0.0.0 download.windowsupdate.com
+0.0.0.0 officeupdate.microsoft.com
+0.0.0.0 windowsupdate.microsoft.com
+0.0.0.0 rhn.redhat.com
+0.0.0.0 grisoft.cz
+0.0.0.0 sarc.com

@@ -1,0 +1,37 @@
+# Title: StevenBlack/hosts extension social
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 25 April 2025 19:28:16 (UTC)
+# The unified hosts file was not used while generating this file.
+# Extensions used to generate this file: social
+# Number of unique domains: 3,217
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Title: Social media hosts
+# Direct URL: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts
+# Updated: March 24, 2024
+
+# Dating sites
+# from https://github.com/StevenBlack/hosts/issues/2023
+0.0.0.0 tinder.com
+0.0.0.0 bumble.com
+0.0.0.0 badoo.com
+0.0.0.0 okcupid.com
+0.0.0.0 hinge.co
+0.0.0.0 coffeemeetsbagel.com
+0.0.0.0 happn.com
+0.0.0.0 weareher.com
+0.0.0.0 clover.co
+0.0.0.0 pof.com
+0.0.0.0 match.com

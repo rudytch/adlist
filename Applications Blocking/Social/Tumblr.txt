@@ -1,0 +1,53 @@
+# Title: StevenBlack/hosts extension social
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 25 April 2025 19:28:16 (UTC)
+# The unified hosts file was not used while generating this file.
+# Extensions used to generate this file: social
+# Number of unique domains: 3,217
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Title: Social media hosts
+# Direct URL: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts
+# Updated: March 24, 2024
+
+# Tumblr
+0.0.0.0 24.media.tumblr.com
+0.0.0.0 25.media.tumblr.com
+0.0.0.0 28.media.tumblr.com
+0.0.0.0 36.media.tumblr.com
+0.0.0.0 37.media.tumblr.com
+0.0.0.0 38.media.tumblr.com
+0.0.0.0 40.media.tumblr.com
+0.0.0.0 66.media.tumblr.com
+0.0.0.0 67.media.tumblr.com
+0.0.0.0 68.media.tumblr.com
+0.0.0.0 78.media.tumblr.com
+0.0.0.0 a.tumblr.com
+0.0.0.0 api.tumblr.com
+0.0.0.0 assets.tumblr.com
+0.0.0.0 cookiex.ngd.yahoo.com
+0.0.0.0 embed.tumblr.com
+0.0.0.0 engineering.tumblr.com
+0.0.0.0 platform.tumblr.com
+0.0.0.0 px.srvcs.tumblr.com
+0.0.0.0 secure.assets.tumblr.com
+0.0.0.0 secure.static.tumblr.com
+0.0.0.0 staff.tumblr.com
+0.0.0.0 static.tumblr.com
+0.0.0.0 tumblr.com
+0.0.0.0 tumblr.tumblr.com
+0.0.0.0 v.tumblr.com
+0.0.0.0 vt.tumblr.com
+0.0.0.0 www.tumblr.com

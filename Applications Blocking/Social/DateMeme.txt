@@ -1,0 +1,47 @@
+# Title: StevenBlack/hosts extension social
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 25 April 2025 19:28:16 (UTC)
+# The unified hosts file was not used while generating this file.
+# Extensions used to generate this file: social
+# Number of unique domains: 3,217
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Title: Social media hosts
+# Direct URL: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts
+# Updated: March 24, 2024
+
+# DateMeme
+0.0.0.0 datememe.com
+0.0.0.0 www.datememe.com
+0.0.0.0 admin.datememe.com
+0.0.0.0 blog.datememe.com
+0.0.0.0 bn.datememe.com
+0.0.0.0 c1.datememe.com
+0.0.0.0 c2.datememe.com
+0.0.0.0 c3.datememe.com
+0.0.0.0 de.datememe.com
+0.0.0.0 en.datememe.com
+0.0.0.0 es.datememe.com
+0.0.0.0 fr.datememe.com
+0.0.0.0 hi.datememe.com
+0.0.0.0 id.datememe.com
+0.0.0.0 ja.datememe.com
+0.0.0.0 jv.datememe.com
+0.0.0.0 ko.datememe.com
+0.0.0.0 pt.datememe.com
+0.0.0.0 ru.datememe.com
+0.0.0.0 th.datememe.com
+0.0.0.0 vi.datememe.com
+0.0.0.0 zh-cn.datememe.com
